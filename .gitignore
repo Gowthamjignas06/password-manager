@@ -1,0 +1,15 @@
+# Ignore encrypted password storage files
+*.gpg
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.log
+
+# Ignore editor/OS generated files
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore compiled bash artifacts (if any)
+*.out
